@@ -48,9 +48,9 @@ Recall: Both classes have a recall of ~0.98, showing that the model correctly id
 F1-score: Balanced F1-scores (~0.98–0.99) confirm strong and consistent performance across both classes.
 
 ## 🔧 Tech Stack
-1.Python
-2.Pandas, NumPy, Matplotlib, Seaborn
-3.Scikit-learn (for preprocessing, model training & evaluation)
-4.Jupyter Notebook
+1. Python
+2. Pandas, NumPy, Matplotlib, Seaborn
+3. Scikit-learn (for preprocessing, model training & evaluation)
+4. Jupyter Notebook
 
 Feel free to explore, fork or contribute. Feedback and improvements are always welcome!
